@@ -11,3 +11,4 @@ elif total==0:
 d=int(d)
 
 print(d)
+ 
